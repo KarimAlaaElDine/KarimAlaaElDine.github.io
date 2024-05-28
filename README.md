@@ -1,4 +1,4 @@
-![Profile Picture](/least-github-pages/assets/images/Profile.png)
+![Profile Picture](/assets/images/Profile.png)
 ## Machine Learning Engineer | Data Scientist
 ### Key Skills: Python, Pandas, Tensorflow, Docker
 
