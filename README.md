@@ -1,3 +1,27 @@
+<style>
+.github-button-container {
+    text-align: center; /* Center the button horizontally */
+    margin-top: 20px;   /* Add some space above the button */
+}
+
+.github-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #333333; /* GitHub's dark gray color */
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.github-button:hover {
+    background-color: #555555; /* Slightly lighter gray on hover */
+}
+</style>
+
+
 
 ## Machine Learning Engineer | Data Scientist
 ### Key Skills: Python, Pandas, Tensorflow, Docker
@@ -47,12 +71,22 @@ Tech stack: Python, Scipy, Java, matplotlib.
 ### Achievements and extracurricular
 
 - **HackaTUM (2023):** Created a chatbot that can handle a massive 200k line log file as a knowledge base. Used Python, Langchain, vector databases, gpt-4 and Llama. Hosted by Rhode & Schwarz.
-- **Best Game, VGS Game Jam (2019):** Clari-run, a 2-D platformer created using the Unity3D Engine, was  awarded best game and gameplay. (Github Link)
+- **Best Game, VGS Game Jam (2019):** Clari-run, a 2-D platformer created using the Unity3D Engine, was  awarded best game and gameplay.
+- <div class="github-button-container">
+        <a href="https://github.com/Jathrii/clari-run" class="github-button" target="_blank">
+            View on GitHub
+        </a>
+ </div>
 - **Top Project, Digital System Design (2017):** Acknowledged as the top project out of around 50 projects. Created a video game console that runs one game using an FPGA and a screen.
 
 ### Projects
 
-- **Solar Energy Production Prediction:** Created a time-series deep learning model to predict solar energy production in the DK2 zone of Denmark. (Tensorflow, Docker, FastAPI) (Github Link)
+- **Solar Energy Production Prediction:** Created a time-series deep learning model to predict solar energy production in the DK2 zone of Denmark. (Tensorflow, Docker, FastAPI)
+<div class="github-button-container">
+        <a href="https://github.com/KarimAlaaElDine/solar-energy-pred" class="github-button" target="_blank">
+            View on GitHub
+        </a>
+ </div>
 - **MovieLens 25M app:** Created a web app that queries a relational database created out of the MovieLens dataset  that can list the data, search the data by title or genres and give recommendations for users based on previous ratings in a timely manner. (Flask, PostgreSQL).
 
 ### Languages
