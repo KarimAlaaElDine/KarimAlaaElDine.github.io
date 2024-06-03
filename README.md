@@ -24,7 +24,7 @@
 
 
 ## Machine Learning Engineer | Data Scientist
-### Key Skills: Python, Pandas, Tensorflow, Docker
+### Key Skills: Machine learning | Tensorflow | PyTorch | MLflow | Numpy | Pandas | Matplotlib | scikit-learn | Python | SQL | Microsoft Azure | FastAPI | Flask | Docker | PostgreSQL | Grafana | MongoDB | Linux | Gitlab | Git | React | Redux | Node.js | JavaScript | HTML | CSS | Heroku | Github | Unity 3D | C# | Java | Natural Language Processing
 
 ### Education
 #### M.Sc. Artificial Intelligence and Data  Science | Deggendorf Institute of Technology and The University of South bohemia					        	           Deggendorf, DE and Budweis, CZ| 09.21 – Present
@@ -39,6 +39,7 @@ Relevant Coursework:Software Engineering, Computer Vision, Artificial Intelligen
 
 ### Work Experience
 #### Machine Learning Intern @ Livello
+Tech stack: Python, Numpy, YOLO, Pandas, Tensorflow, PyTorch, MLflow,  matplotlib, Grafana, MongoDB, Gitlab, Linux, Git, Microsoft Azure.
 - Undergone research and literature review on gender and age estimation.
 - Developed  and deployed it for a proof-of-concept object detection model as well  as people 
   counting, age, and gender recognition system on a Jetson device.
