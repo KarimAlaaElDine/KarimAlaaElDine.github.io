@@ -23,7 +23,7 @@
 
 
 
-## Machine Learning Engineer | Data Scientist
+## Machine Learning Engineer | Data Scientist | Frontend Developer
 ### Key Skills: Machine learning | Tensorflow | PyTorch | MLflow | Numpy | Pandas | Matplotlib | scikit-learn | Python | SQL | Microsoft Azure | FastAPI | Flask | Docker | PostgreSQL | Grafana | MongoDB | Linux | Gitlab | Git | React | Redux | Node.js | JavaScript | HTML | CSS | Heroku | Github | Unity 3D | C# | Java | Natural Language Processing
 
 ### Education
